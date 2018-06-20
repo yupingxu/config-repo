@@ -1,6 +1,4 @@
 name: Client2 Service
-server:
-  port: 8201
 martin:
     name: Martin D'vloper
     job: Developer
