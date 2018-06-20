@@ -1,8 +1,8 @@
 name: Client2 Service
 server:
   port: 8201
-registered-states:
-  -George
-  -New Jersey
-  -Pennsylvania
-  
+registered-states: no states
+states:
+  - Georgia
+  - New Jersey
+  - Pennsylvania
