@@ -1,4 +1,5 @@
 name: Client2 Service
+server.port: 8787
 martin:
     name: Martin D'vloper
     job: Developer
