@@ -1,0 +1,2 @@
+foo-db: from feature-77 config
+democonfigclient.message: hello for db
