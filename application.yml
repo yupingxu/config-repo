@@ -1,0 +1,6 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://172.27.172.97:8761/eureka/,http://172.27.172.97:8762/eureka/,http://172.27.172.97:8763/eureka/
+shared-property: app from master
+
