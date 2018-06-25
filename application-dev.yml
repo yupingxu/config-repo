@@ -1,1 +1,3 @@
 shared-property: from develop branch dev profile
+logging:
+  file: naps-applicant-api-dev.log
