@@ -1,3 +1,8 @@
 shared-property: from develop branch
 logging:
   file: naps-applicant-api-1.log
+spring:
+  cloud:
+    config
+      profile: dev
+      
