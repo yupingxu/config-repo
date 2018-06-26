@@ -3,5 +3,5 @@ eureka:
     serviceUrl:
       defaultZone: http://172.27.172.97:8761/eureka/,http://172.27.172.97:8762/eureka/,http://172.27.172.97:8763/eureka/
 shared-property: app from master
-states: { AL: Alabama, PHP: 5.2, MySQL: 5.1, Apache: 2.2.20 }
+mapped-states: { AL: Alabama, PHP: 5.2, MySQL: 5.1, Apache: 2.2.20 }
 
