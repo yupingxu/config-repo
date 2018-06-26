@@ -4,3 +4,6 @@ logging:
   level:
     ROOT: INFO
     org.springframework.cloud.config: DEBUG
+privacy:
+  states: 
+    $include: https://github.com/yupingxu/config-repo/blob/develop/configClient.yml
