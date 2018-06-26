@@ -6,3 +6,5 @@ logging:
   level:
     ROOT: INFO
     org.springframework.cloud.config: DEBUG
+privacy:
+  states: $include: client1-dev.yml
