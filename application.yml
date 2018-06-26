@@ -5,6 +5,6 @@ eureka:
 shared-property: app from master
 mapped-states: { AL: Alabama, PHP: 5.2, MySQL: 5.1, Apache: 2.2.20 }
 privacy:
-  states: '{ AL: Alabama, PHP: 5.2, MySQL: 5.1, Apache: 2.2.20 }'
+  states: '{AL:Alabama,FL:Florida,GA:Georgia}'
   
 
